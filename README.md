@@ -35,11 +35,20 @@ Para rodar o projeto no seu repositório, é necessário ter o <a href="https://
 <br>
 
 ### Clonando o código em um repositório local
+<br>
 
+1 - Use o comando Git clone
 ```bash
-
+git clone https://github.com/Jooab/projeto-tlou
 ```
-
+2 - Vá até a pasta do projeto
+```bash
+cd projeto-tlou/
+```
+3 - Abra com o Vscode
+```bash
+code
+```
 <br>
 
 ---
@@ -51,6 +60,10 @@ Para rodar o projeto no seu repositório, é necessário ter o <a href="https://
 <br>
 
 ---
+<h4 align="center"> 
+    Feito com carinho por <a href="https://github.com/Jooab">Jooab</a> 🖤
+</h4>
+<br>
 <h4 align="center"> 
     🚧 Projeto em Desenvolvimento 🔨
 </h4>
